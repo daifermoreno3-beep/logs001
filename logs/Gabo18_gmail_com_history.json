@@ -4,5 +4,11 @@
         "action": "REGISTRO",
         "details": "Cuenta nueva creada",
         "device": "iPhone"
+    },
+    {
+        "timestamp": "20\/1\/2026, 11:53:51 p.m.",
+        "action": "LOGIN",
+        "details": "Sesi\u00f3n iniciada",
+        "device": "iPhone"
     }
 ]
