@@ -28,5 +28,11 @@
         "action": "GUARDADO",
         "details": "Registro: 11111",
         "device": "Win32"
+    },
+    {
+        "timestamp": "20\/1\/2026, 20:23:30",
+        "action": "GUARDADO",
+        "details": "Registro: 22222",
+        "device": "Win32"
     }
 ]
