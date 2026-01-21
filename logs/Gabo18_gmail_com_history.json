@@ -16,5 +16,11 @@
         "action": "GUARDADO",
         "details": "Registro: Face",
         "device": "iPhone"
+    },
+    {
+        "timestamp": "21\/1\/2026, 1:04:02 a.m.",
+        "action": "GUARDADO",
+        "details": "Registro: Netflix ",
+        "device": "iPhone"
     }
 ]
