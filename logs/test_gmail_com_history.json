@@ -10,5 +10,11 @@
         "action": "LOGIN",
         "details": "Sesi\u00f3n iniciada",
         "device": "Win32"
+    },
+    {
+        "timestamp": "20\/1\/2026, 20:23:17",
+        "action": "GUARDADO",
+        "details": "Registro: 121",
+        "device": "Win32"
     }
 ]
