@@ -10,5 +10,11 @@
         "action": "LOGIN",
         "details": "Sesi\u00f3n iniciada",
         "device": "iPhone"
+    },
+    {
+        "timestamp": "20\/1\/2026, 11:54:13 p.m.",
+        "action": "GUARDADO",
+        "details": "Registro: Face",
+        "device": "iPhone"
     }
 ]
