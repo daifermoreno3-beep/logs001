@@ -22,5 +22,11 @@
         "action": "GUARDADO",
         "details": "Registro: Netflix ",
         "device": "iPhone"
+    },
+    {
+        "timestamp": "21\/01\/2026, 22:46:58",
+        "action": "LOGIN",
+        "details": "Sesi\u00f3n iniciada",
+        "device": "iPhone"
     }
 ]
