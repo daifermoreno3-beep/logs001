@@ -28,5 +28,11 @@
         "action": "LOGIN",
         "details": "Sesi\u00f3n iniciada",
         "device": "iPhone"
+    },
+    {
+        "timestamp": "21\/1\/2026, 10:50:40 p.\u00a0m.",
+        "action": "LOGIN",
+        "details": "Sesi\u00f3n iniciada",
+        "device": "Win32"
     }
 ]
